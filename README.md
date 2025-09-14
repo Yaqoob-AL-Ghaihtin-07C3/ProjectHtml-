@@ -91,8 +91,8 @@ The educational website for learning HTML & CSS has been successfully updated an
 
 ## إحصائيات المشروع | Project Statistics
 - دروس HTML | HTML Lessons: 44  
-- دروس CSS | CSS Lessons: 25  
-- إجمالي الصفحات | Total Pages: 69+  
+- دروس CSS | CSS Lessons: 43  
+- إجمالي الصفحات | Total Pages: 87+  
 - ملفات CSS | CSS Files: 3  
 - ملفات JavaScript | JS Files: 1  
 - تحديثات | Updates:
